@@ -12,6 +12,7 @@ namespace Test4
 {
     public partial class Form1 : Form
     {
+        string s = "TestString!";
         public Form1()
         {
             InitializeComponent();
